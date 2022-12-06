@@ -4,7 +4,7 @@
     <a href="https://matrix.to/#/#upscaler:matrix.org" alt="Matrix">
         <img src="https://img.shields.io/matrix/upscaler:matrix.org"/></a>
     <a href="https://gitlab.com/TheEvilSkeleton/Upscaler" alt="GitLab tag (latest by SemVer)">
-        <img src="https://img.shields.io/gitlab/v/tag/TheEvilSkeleton/Upscaler?label=Upscaler-release&sort=semver" /></a>
+        <img src="https://img.shields.io/gitlab/v/tag/TheEvilSkeleton/Upscaler?label=Upscaler&sort=semver" /></a>
 </p>
 
 Upscaler is a GTK4+libadwaita application that allows you to upscale and enhance a given image. It is a front-end for [Real-ESRGAN ncnn Vulkan](https://github.com/xinntao/Real-ESRGAN-ncnn-vulkan).
